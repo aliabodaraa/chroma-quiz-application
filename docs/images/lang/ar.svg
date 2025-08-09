@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 36 24" width="36" height="24" 
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="xMidYMid meet">
+    <!-- Green background -->
+    <rect width="36" height="24" fill="#245C36"/>
+    
+    <!-- White Arabic script (Shahada) -->
+    <text x="18" y="16" 
+          font-family="Arial" 
+          font-size="10" 
+          fill="white" 
+          text-anchor="middle"
+          direction="rtl"
+          unicode-bidi="bidi-override">
+        لا إله إلا الله محمد رسول الله
+    </text>
+    
+    <!-- Sword -->
+    <path fill="white" 
+          d="M24 6L22 4H14L12 6L14 8H22L24 6ZM22 8L20 10H16L14 8L16 6H20L22 8Z"/>
+    <rect x="18" y="4" width="2" height="16" fill="white"/>
+</svg>
